@@ -15,3 +15,5 @@ public class ClimbStair {
 		//changed file
     }
 }
+
+//Git has a mutable index called stage
